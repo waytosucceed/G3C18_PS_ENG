@@ -1,0 +1,219 @@
+{
+  "heading": "Commas and Capitalisation",
+  "topics": [
+    {
+      "heading": "Commas and Capitalisation",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the correct sentence (comma):",
+          "options": [
+            { "text": "We visited New York, Boston, and Washington." },
+            { "text": "We visited New York Boston, and Washington." },
+            { "text": "We visited New York, Boston and, Washington." }
+          ],
+          "answer": 0,
+          "explanation": "Commas separate items in a list, and the comma here is used before 'and.'"
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the correct sentence (capitalization):",
+          "options": [
+            { "text": "My friend lives in chicago." },
+            { "text": "My friend lives in Chicago." },
+            { "text": "My friend Lives in chicago." }
+          ],
+          "answer": 1,
+          "explanation": "Proper nouns, such as city names, are capitalized."
+        },
+        {
+          "questionNo": 3,
+          "question": "Insert the correct capitalization: <br> We are going to the _____ on Sunday.",
+          "options": [  { "text": "Park" },
+          { "text": "park" }],
+          "answer": 1,
+          "explanation": "Common nouns are not capitalized unless they are at the beginning of a sentence."
+        },
+        {
+          "questionNo": 4,
+          "question": "Insert the comma: <br> We need to buy bread milk eggs and butter.",
+          "options": [
+            { "text": "After bread" },
+            { "text": "After milk" },
+            { "text": "After egg" },
+            { "text": "All of the above" }
+          ],
+          "answer": 3,
+          "explanation": "The correct sentence will be 'We need to buy bread, milk, eggs, and butter.' Commas separate items in a list."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which sentence is correct?",
+          "options": [
+            { "text": "We visited the twin towers." },
+            { "text": "We visited the Twin Towers." },
+            { "text": "We visited the Twin towers." }
+          ],
+          "answer": 1,
+          "explanation": "Proper nouns, such as names of buildings, are capitalized."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence uses the apostrophe correctly?",
+          "options": [
+            { "text": "The teacher's desk is tidy." },
+            { "text": "The teachers desk is tidy." },
+            { "text": "The teachers's desk is tidy." }
+          ],
+          "answer": 0,
+          "explanation": "'Teacher' is singular, so we add (s) to show possession."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which sentence uses the comma correctly?",
+          "options": [
+            { "text": "She enjoys hiking, swimming and, reading." },
+            { "text": "She enjoys hiking, swimming, and reading." },
+            { "text": "She enjoys hiking swimming, and reading." }
+          ],
+          "answer": 1,
+          "explanation": "Commas separate items in a list and the comma here is used before 'and.'"
+        },
+        {
+          "questionNo": 8,
+          "question": "Insert the apostrophe: <br> The __________ (cat) bed is cosy.",
+          "options": [
+            { "text": "cats’" },
+            { "text": "cat’s" },
+            { "text": "cats’s" }
+          ],
+          "answer": 1,
+          "explanation": "'Cat' is singular, so we add (s) to show possession."
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the correctly capitalised sentence:",
+          "options": [
+            { "text": "My favourite book is \"harry potter and the sorcerer's stone.\"" },
+            { "text": "My favourite book is \"Harry Potter and the Sorcerer's Stone.\"" },
+            { "text": "My favourite book is \"Harry potter and the sorcerer's stone.\"" }
+          ],
+          "answer": 1,
+          "explanation": "Titles of books are capitalised."
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the sentence with the correct comma placement:",
+          "options": [
+            { "text": "Although it was raining we went for a walk." },
+            { "text": "Although, it was raining we went for a walk." },
+            { "text": "Although it was raining, we went for a walk." }
+          ],
+          "answer": 2,
+          "explanation": "A comma is used after an introductory clause."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which sentence uses the apostrophe correctly?",
+          "options": [
+            { "text": "The book's cover is torn." },
+            { "text": "The books cover is torn." },
+            { "text": "The books' cover is torn." }
+          ],
+          "answer": 0,
+          "explanation": "'Book' is singular, so we add (s) to show possession."
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the sentence that uses the comma correctly:",
+          "options": [
+            { "text": "He said, \"Let's go to the park.\"" },
+            { "text": "He said \"Let's go to the park.\"" },
+            { "text": "He said, \"Let's go, to the park.\"" }
+          ],
+          "answer": 0,
+          "explanation": "Commas are used to separate dialogue tags from the dialogue."
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the correct possessive form: The (boys' / boy's) bikes are new.",
+          "options": [
+            { "text": "boys'" },
+            { "text": "boy's" }
+          ],
+          "answer": 0,
+          "explanation": "'Boys' is a plural noun, so we add an apostrophe after the 's' to show possession."
+        },
+        {
+          "questionNo": 14,
+          "question": "Insert the apostrophe: <br> The __________ (parents) meeting is at 6 PM.",
+          "options": [
+            { "text": "parent’s" },
+            { "text": "parents’" },
+            { "text": "parents’s" }
+          ],
+          "answer": 1,
+          "explanation": "'Parents' is a plural noun, so we add an apostrophe after the 's' to show possession."
+        },
+        {
+          "questionNo": 15,
+          "question": "Insert the correct punctuation: <br> The __________ (students) projects are on display.",
+          "options": [
+            { "text": "student’s" },
+            { "text": "students’" },
+            { "text": "none of the above" }
+          ],
+          "answer": 1,
+          "explanation": "'Students' is a plural noun, so we add an apostrophe after the 's' to show possession."
+        },
+        {
+          "questionNo": 16,
+          "question": "Choose the sentence with the correct placement of apostrophe:",
+          "options": [
+            { "text": "Sarahs' car is in the garage." },
+            { "text": "Sarah's car is in the garage." },
+            { "text": "Sarahs car is in the garage." }
+          ],
+          "answer": 1,
+          "explanation": "'Sarah' is a singular noun, so we add (s) to show possession."
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the sentence with the correct apostrophe and capitalisation:",
+          "options": [
+            { "text": "My brothers friend is coming over." },
+            { "text": "My brother's friend is coming over." },
+            { "text": "my brother's friend is coming over." }
+          ],
+          "answer": 1,
+          "explanation": "'Brother' is a singular noun, so we add (s) to show possession, and the first word of the sentence is capitalised."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blanks with the correct capitalisation and comma usage: <br> The novel \"To Kill a __________ (mockingbird) was published in __________ (july 1960) by __________ (harper lee).",
+          "options": [    { "text": "Mockingbird, July 1960, Harper Lee" },
+          { "text": "mockingbird, july 1960, Harper lee" }],
+          "answer": 0,
+          "explanation": "The title of the book \"To Kill a Mockingbird\" must have each major word capitalised. \"July\" is a month and should be capitalised. \"Harper Lee\" is a proper noun (author's name) and must be capitalised. No comma is needed between the month and year."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blanks with the correct capitalisation and comma usage: <br> In her speech, the professor discussed __________ (climate change), renewable energy and the importance of __________ (environmental conservation).",
+          "options": [    { "text": "Climate change, Environmental conservation" },
+          { "text": "climate change, environmental conservation" },
+          { "text": "Climate Change, Environmental Conservation" }],
+          "answer": 1,
+          "explanation": "\"Climate change,\" \"renewable energy,\" and \"environmental conservation\" are not proper nouns, so they do not require capitalisation. Commas are used to separate items in a list."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blanks with the correct capitalization and comma usage: <br> During the __________ (winter) months, many people travel to __________ (south america) for its __________ (warm weather).",
+          "options": [    { "text": "winter , South America, warm weather" },
+          { "text": "Winter , south america, Warm Weather" }],
+          "answer": 0,
+          "explanation": "\"Winter\" is not capitalised as it is a common noun. \"South America\" is a proper noun and must be capitalised. \"Warm weather\" is a common noun phrase and does not require capitalisation. Commas are used to set off introductory elements and to separate clauses."
+        }
+      ]
+    }
+  ]
+}
